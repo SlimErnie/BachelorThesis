@@ -1,0 +1,8 @@
+<configuration>
+
+<input>
+ <net-file value="Szenario2.net.xml" />
+ <route-files value="Szenario2.rou.xml" />
+</input>
+
+</configuration>
